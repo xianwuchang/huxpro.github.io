@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      "记录此博客的搭建"
 subtitle:   " \"Hello World, Hello Blog\""
