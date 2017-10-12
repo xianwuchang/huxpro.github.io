@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      "《巴菲特之道》读书笔记"
 subtitle:   " \"投资思想的精华\""
