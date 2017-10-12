@@ -4,7 +4,7 @@ title:      "《巴菲特之道》读书笔记"
 subtitle:   " \"投资思想的精华\""
 date:       2017-10-012 18:14:00
 author:     "Yongxian"
-header-img: "img/post-bg-2017-1.jpg"
+header-img: "img/post-bg-2017-10-12.jpg"
 catalog: true
 tags:
     - 投资 读书笔记
