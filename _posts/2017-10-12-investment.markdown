@@ -7,7 +7,8 @@ author:     "Yongxian"
 header-img:  "img/post-bg-2017-10-12.jpg"
 catalog:  true
 tags:
-    - 投资 读书笔记
+    - 投资 
+    - 读书笔记
 ---
 
 >"你所不知道的不会令你陷入麻烦，令你陷入麻烦的一定是你知道的"---马克·吐温

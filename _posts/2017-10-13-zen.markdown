@@ -7,7 +7,8 @@ author:     "Yongxian"
 header-img: "img/post-bg-2017-10-13.jpg"
 catalog: true
 tags:
-    - 读书笔记 哲学
+    - 读书笔记 
+    - 哲学
 ---
 
 能骑摩托车来走一遭的确是一件乐事，虽然这里不是什么名山大川，也没有寻幽览胜之处，但这正是它的迷人之处。
