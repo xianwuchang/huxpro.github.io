@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      "《禅与摩托车修理艺术》"
 subtitle:   " \"禅\""
