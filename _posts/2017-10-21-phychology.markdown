@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      "这次是心理学"
 subtitle:   " \"看穿世界的批判性思维\""
