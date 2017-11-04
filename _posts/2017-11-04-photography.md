@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      "摄影基础"
 subtitle:   " \"认识摄影，记录世界\""
