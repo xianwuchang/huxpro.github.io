@@ -12,6 +12,7 @@ tags:
 ---
 
 >“Spend each day trying to be a little wiser than you were when you woke up. Discharge your duties faithfully and well. Systematically you get ahead, but not necessarily in fast spurts. Nevertheless, you build discipline by preparing for fast spurts. Slug it out one inch at a time, day by day. At the end of the day – if you live long enough – most people get what they deserve.” — Charlie Munger
+
 ### 过程
 关注有安琪酵母（600198）三个多月，最初是发现最近两年营业收入以及营业利润快速增长，同时roe也在增加，16年大于15%。目前公司在俄罗斯投资建厂，在积极拓展海外市场。另一方面相对食品行业其他企业，在这样的增长背景下，市盈率并不是很高。
 
