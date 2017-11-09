@@ -2,9 +2,9 @@
 layout:     post
 title:      "安琪酵母投资反思"
 subtitle:   " \"在别人贪婪时恐惧，别人恐惧时贪婪\""
-date:       2017-11-08 16:20:00
+date:       2017-11-09 16:20:00
 author:     "Yongxian"
-header-img: "img/post-bg-2017-11-8.jpg"
+header-img: "img/post-bg-2017-11-9.jpg"
 catalog: true
 tags:
     - 投资
