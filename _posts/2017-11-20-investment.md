@@ -4,7 +4,7 @@ title:      "1977年巴菲特致股东信"
 subtitle:   " \"投资哲学\""
 date:       2017-11-20 22:20:00
 author:     "Yongxian"
-header-img: "img/post/post-bg-2017-11-20.jpg"
+header-img: "img/post/post-bg-2017-11-20.jpg.png"
 catalog: true
 tags:
     - 投资
