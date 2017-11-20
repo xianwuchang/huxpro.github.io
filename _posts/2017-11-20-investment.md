@@ -65,6 +65,6 @@ Most of our large stock positions are going to be held for many years and the sc
 
 Except for special cases (for example, companies with unusual debt-equity ratios or those with important assets carried at unrealistic balance sheet values), we believe a more appropriate measure of managerial economic performance to be return on equity capital. 
 
-除特殊情况（如具有不寻常的债务比例或重要资产在不切实际的资产负债表价值的公司），我们认为更适当的管理经济绩效衡量标准是股本回报。
+6.除特殊情况（如具有不寻常的债务比例或重要资产在不切实际的资产负债表价值的公司），我们认为更适当的管理经济绩效衡量标准是股本回报。
 
 [信件地址](http://www.berkshirehathaway.com/letters/1977.html)
