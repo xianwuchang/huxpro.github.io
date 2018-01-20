@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      "第三种黑猩猩演化史"
 subtitle:   " \"人类的身世与未来\""
