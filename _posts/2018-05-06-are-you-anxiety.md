@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      "建立理性信念，避免被焦虑控制"
 subtitle:   " \"控制焦虑\""
