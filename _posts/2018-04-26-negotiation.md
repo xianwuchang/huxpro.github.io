@@ -1,7 +1,7 @@
 ---
 
 layout:     post
-title:      "谈判前你演讲了吗？"
+title:      "谈判前你准备了吗？"
 subtitle:   " \"充足准备提高谈判成功率\""
 date:       2018-04-26 10:53:00
 author:     "Yongxian"
