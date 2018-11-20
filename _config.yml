@@ -59,7 +59,7 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: 'UA-81380100-1-1'            # Format: UA-xxxxxx-xx
-ga_domain:wangyongxian.com
+ga_domain: wangyongxian.com
 
 
 
