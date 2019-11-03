@@ -1,11 +1,19 @@
 ---
+<<<<<<< HEAD
 layout:    post
 title:      "激烈竞争下的差异化战略“
 subtitle:   " \"差异化\""
 date:       2019-05-15 10:53:00
 author:     "Yongxian"
+=======
+layout:   post
+title:    “激烈竞争下的差异化战略”
+subtitle:  " \"差异化\""
+date:      2019-05-15 10:53:00
+author:    "永贤"
+>>>>>>> 0c08c2918df0b2391426a61642d914d929f28628
 header-img: "img/post/post-bg-2019-05-15.jpg"
-catalog: true
+catalog:   true
 tags:
     - 差异化
     - 企业战略
