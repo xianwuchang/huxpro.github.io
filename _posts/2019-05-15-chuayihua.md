@@ -1,17 +1,14 @@
 ---
-layout:     post
-title:      "激烈竞争下的差异化战略“
-subtitle:   " \"差异化\""
-date:       2019-05-15 10:53:00
-author:     "Yongxian"
+layout:   post
+title:    “激烈竞争下的差异化战略”
+subtitle:  " \"差异化\""
+date:      2019-05-15 10:53:00
+author:    "永贤"
 header-img: "img/post/post-bg-2019-05-15.jpg"
-catalog: true
+catalog:   true
 tags:
     - 差异化
     - 企业战略
- 
-    
-
 ---
 
 商品极大丰富的今天，消费者有大量选择机会，但随着产品越来越好、可选产品越来越多，貌似消费者的满意度并没有明显提高。那么消费者到底在追求什么，作为产品提供者，到底应该怎么做才能提高消费者满意度？为什么会出现这样的情况？
