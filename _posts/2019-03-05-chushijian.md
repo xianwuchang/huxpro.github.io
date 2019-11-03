@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      "褚时健跌宕起伏的一生“
+title:      ：褚时健跌宕起伏的一生“
 subtitle:   " \"褚时健\""
 date:       2019-03-05 10:53:00
-author:     "Yongxian"
+author:     "王永贤"
 header-img: "img/post/post-bg-2019-03-05.jpg"
 catalog: true
 tags:

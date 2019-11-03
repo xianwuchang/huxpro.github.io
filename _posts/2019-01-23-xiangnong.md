@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      "关于创造性思维的思考--信息论创始人香农“
+title:      “关于创造性思维的思考--信息论创始人香农”
 subtitle:   " \"如何培养创造性思维\""
 date:       2019-1-23 10:53:00
-author:     "Yongxian"
+author:     "王永贤"
 header-img: "img/post/post-bg-2019-1-23.jpg"
 catalog: true
 tags:

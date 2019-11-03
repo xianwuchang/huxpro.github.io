@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      "如果我们不自己思考，别人的想法就会禁锢我们。--第一性原则“
+title:      “如果我们不自己思考，别人的想法就会禁锢我们。--第一性原则”
 subtitle:   " \"第一性原则\""
 date:       2019-03-15 10:53:00
-author:     "Yongxian"
+author:     "王永贤"
 header-img: "img/post/post-bg-2019-03-15.jpg"
 catalog: true
 tags:
